@@ -1,0 +1,16 @@
+{
+  "name": "Reedlr-deploy",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "aws-sdk": "~0.9.8-pre.9",
+    "async": "~0.2.7"
+  }
+}

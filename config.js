@@ -1,0 +1,1 @@
+{ "accessKeyId": "AKIAJC2B6A5OZMWHMJKA", "secretAccessKey": "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", "region": "eu-west-1" }
